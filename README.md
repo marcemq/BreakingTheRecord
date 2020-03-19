@@ -52,7 +52,7 @@ Best record: [('2', 4), ('3', 21), ('4', 36), ('10', 42)]
 Worst records: []
 ````
 
-NOTE: And what if the season only have one game? should we considered the score for this game the best one? the worst one? or only have it as a base to starting comparing further scores against it? this situation is ambiguos in the problem statement :neutral_face:. The proposed solutions takes the first game as the base, so if only one game is provided the score of it is considered **neutral**, not the best nor the worst :speak_no_evil:.
+**NOTE**: And what if the season only have one game? should we considered the score for this game the best one? the worst one? or only have it as a base to starting comparing further scores against it? this situation is ambiguos in the problem statement :neutral_face:. The proposed solutions takes the first game as the base, so if only one game is provided the score of it is considered **neutral**, not the best nor the worst :speak_no_evil:.
 
 ### Complexity
 
